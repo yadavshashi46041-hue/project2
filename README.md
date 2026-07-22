@@ -1,2 +1,2 @@
 # newproject 
-  this project main is for practice.yrr
+  this project main is for practice.yrr.
